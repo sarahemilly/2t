@@ -1,8 +1,0 @@
-:root {
-    --cor-de-fundo:red;
-    --branco: #12eb65;
-    }
-    
-    .cabeçalho {
-    background-color: var(--branco);
-    }
